@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="16" height="16" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="1">
+ <tileset firstgid="1" source="../CytheraTiles.tsx"/>
+ <layer id="1" name="0" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJyNk10KgCAQhKU7GeZh6owZBHUNL5SCwbLM7vgwqHyu+zMYQwjLUBzK6uzxviZxJyk2w3+tDrN4FmsE7zOO8l1NJ9Aj7mxqPrLH0lSBiqrJ6pPFJ8OXvt9JvK5Xv3MMefGe/yye+c/qn/H/Nfy7J/2X/jKOZoD+j8WR/9pfxmUelM/jHxryPqg=
+  </data>
+ </layer>
+ <layer id="2" name="1" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAOqOFkYKjmZFAgFcP0A9lw8JWJgeEbEP9iwm8nsh5k9negvh9A/AdJ/ycsZuHSjw+cZmZgOArEp5hx688CyulzMDAkAekHQOwEtDsZSD8F+vcYVP9xPPpBIIoZEz8H6j9CpP4ONP9yAdU/w2M/MqhmYWDgBMqzMSPEchkZFJ5D9R8hoL+GBZUvDVS7Swxi/ykc4VeDZpYgUF6IGRJvXkBchxR+x4jw/wtOcHiB8VMIrdDACHE7NvcTiv+j0PAkNv5wgSNEuh8XAKW/k8wQGl0/OfkPAPeCVMs=
+  </data>
+ </layer>
+ <layer id="3" name="2" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAOqOJkUEDGNZyExUB8JP0o4CcTUXbi1P+bQv24wBFmCH2cGb/+JKD8bWYIDcKpWNyDz/+lzPj56HpqiHQ/Lv3IwJyFMv0WaPr3iCHYxIYfMqgFqt0JNKOBEVUcX/ghg6fAtPYMiNHFyYn/gdZ/Ehp+J5gx459QXkPPj9VAMQBK6Cyb
+  </data>
+ </layer>
+ <layer id="4" name="3" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAOqOLE4CtgUaOAxh/RYKT7n1iwWwy7+Gj4IQCWvIWXDwI1wPADAKstBpI=
+  </data>
+ </layer>
+</map>

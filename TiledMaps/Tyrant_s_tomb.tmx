@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="64" height="64" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="1">
+ <tileset firstgid="1" source="../CytheraTiles.tsx"/>
+ <layer id="1" name="0" width="64" height="64">
+  <data encoding="base64" compression="zlib">
+   eJztmetugzAMhfPCu7zK6Ma/bn0npHbq9jBrJKxZlh2SkHDLOZIFhKnwcWwnA+cgCIIgCIIgCIIgCIIgCIIgCGpRp0e8Rcb7SvdYU90jbpHRrXSPc2T5S+Ol+eX1zuVQsmTxdWJbit//zcCCPw9t3/Kn1HOb4pPnryJy/Cd2yi86tva1KFVrncKUGzn+W8wh3/35T2U8lz8l/+f6H8tv+R8aX4K/Rv3zepDjlAea7wPbz+X/cHqe8d+tyT/ls9zW7gfa/S7R/8/imNc/57f6Qi1+nh/+2n6NR7zyPvuI39P85+OW31N5sMTaS8uF1Ota/vfuv745J9W75Jd5s1f+2D4fkxe1VZNf1rXmrzbvH4U/db4/mv/cX9lTtfygvLi4Y/Fbnq81/3ORB9b8FxOh+v9Sxmj+pzyQ68CTW99/zvMrIqevh3rC1vr/zZXl977ymtdq34fMlaPwp9T8FvhL5f/F6fM7j0EZ690x+OfGVvs/1TD3LnScOp+k/O81Vznzf6q/S/iYK/CDP5Vfe0/LeWW9L1HHuaq1/t+LwN8ev6xPzi7n4Jjv33vjL/n+m56lXP+s/Q04pJL8/vy3ElvOAc7//IincXsftz5eXRv8nvM+xs+49WMvrg1+z0nPgPgpH1rg9+zES7635P/c/me929jymnfq+/heODT9ARyGE2U=
+  </data>
+ </layer>
+ <layer id="2" name="1" width="64" height="64">
+  <data encoding="base64" compression="zlib">
+   eJztmslOwzAQhk1bRCsqjuWaJ0FifYMeUdneAIlXQOIK6okLy4kTL8C+I7YCL9DChcILlAvMkFhNgls7adPY6XzSiCxO6t8ej+0JjBEEQRAEQRAEQRAEQRAEQRAEQTC2km1/3g9UM4zVMnHXIj7eQPt7H+o/AM2HPjsyvB3yLXQsCnSdw7WNtH28nraPj0PoH4dnJnAM5ezzu3Tznv94LuL2/Ukx1hhs6lhLMQv/LjnnJdfvo/4y1GnEsXII/aDZ6rzW3SMH9T8FO1HQcS4oE6b/keUB7/n+kPwZXkalbBScOW3lNpV2kzEP71jI/D+elbxbdj8q9tK2RQ2PBXc9+K1eUQ0x/uPqZxEYu6fBZkLW6V1Bf5L6Oww69beu4Lxsop+8RTD/xzUfhuUW+07i4/7+LSVoTNyAlgewpwRpCkIFdD+DPSrob+XbcfgD7Pst2Pta7jXaV4GxeuFvXv8D9zQN8Ntvx3fd1zkv8Owr2L2iBl3WgTXQDvt+y30N1zMfhQDvgPLo+xXF/tedSZ+GLfDXbUk8xn4vZm0fkKHSt72K/2OC+XbKqV/RyQPuQF12h7ztgPeKvjyhauzDOUCX2M/Hv/sa+nNd4P+8HbpJ3OtC0fj/BO1Bxn8rTFrDuOO/jPxoM9+FwPrPc17N/c+HJYlh0J8b9V4T5c9F5ZIAX++7458of+6Pj0SyMSnedRPd8t9EbwmT/9SJTvOfiIl5q26Bewi+fsL1jmhPoSMXgm8/3C4D+kLc37GCwPc87b7z4XdB/75IhImxn+95ZPr9+yIZm4b4PUemXwWTY/+14H8/uF1pkp+IitVMsGPCDH4B2VSVgQ==
+  </data>
+ </layer>
+ <layer id="3" name="2" width="64" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt2U0OwUAYBuCKWSDWunUJNmz83EjiDtbiRNY2nIAth1AJkabdtCQYz7P6OtN+mbeZNJM0SQAAAAAAAIB/MAvFsXXzPb0HWe9hSf9vsL1nnJesb3OfWzSeNbxqku21aSjWAAB8h3ec0XaRnPHOvfrP7iN4B6OaGQ4RZL8ZR5KjrssL+5/fVPX730mf9bKVn3tcd9P8fQAAsTi2/eOIzTEk/U+v4ZNOf56fuK1CtZrfcAVymxJE
+  </data>
+ </layer>
+ <layer id="4" name="3" width="64" height="64">
+  <data encoding="base64" compression="zlib">
+   eJztxrENAAAIA6AO3u7d3uDYBCYSAAAAAAAAAAAAAAAAAAAAmuz8TocDExwCKQ==
+  </data>
+ </layer>
+</map>

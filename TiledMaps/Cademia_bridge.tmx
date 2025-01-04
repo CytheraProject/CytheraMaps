@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="24" height="16" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="1">
+ <tileset firstgid="1" source="../CytheraTiles.tsx"/>
+ <layer id="1" name="0" width="24" height="16">
+  <data encoding="base64" compression="zlib">
+   eJzNlLEOwjAMRCN2hgILYmJoQexO6C+UVv14fggj2dLJpFFaLwxPthTdKXZOoRBCFEg4MvuV3EBPxm+Umpinw1/1vem1fhkc/qon6SnTJ+d+EuxmBm+dx7N/1eN91fvFTHKW878zV6ZhDgv+E3hH8O5NvSzod8KpsH/cQwq/u9f53iux+mhmwbzSBn+rL+Xfc/+a/G+5v9WX8n/OvGHHtELu7AH6f8x/jX9t/j3/T03+Pf+nzf8HRNxXag==
+  </data>
+ </layer>
+ <layer id="2" name="1" width="24" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIwlIcjAwSHHQTp80UI0nB4OCB4nYHYhliHTXERbS3X+ABD0DZX4DI/XMdwaGJymYWPNB6cANqN6FROwExMSmH2LTATX0jXQAAADfGVw=
+  </data>
+ </layer>
+ <layer id="3" name="2" width="24" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4C6QIaDgaGFmTTMyjLQrh540MBIHXNcORgUSNXjSIIeKQ5STWdgkCRDzyigPQAAq10IHA==
+  </data>
+ </layer>
+ <layer id="4" name="3" width="24" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4C6gJuFdD3SHNR3xygYBaMAPwAAtnAAMw==
+  </data>
+ </layer>
+</map>

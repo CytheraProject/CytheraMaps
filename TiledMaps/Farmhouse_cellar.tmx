@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="8" height="8" tilewidth="32" tileheight="32" infinite="0" nextlayerid="10" nextobjectid="1">
+ <tileset firstgid="1" source="../CytheraTiles.tsx"/>
+ <layer id="1" name="0" width="8" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYGRgYCAC84sAKSgWEMGUYwXifCA3D4iZ0eSZoHK5QFwAxGxIZsD05kH15kPVwMzgA9LsaPpz0eyAqeEAYhYo5kVzAx8WMRAGAOxKCGU=
+  </data>
+ </layer>
+ <layer id="2" name="1" width="8" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAMvDgZGJyB2AmKD4uhyoPkfDkh7BNAueNiqHqBehRA7FJGBgZ/IDsQiGFmIOsFgStiqGacBtJA9SB9DO5AfEEM0w6YGk8gPi8GwXeR5G+LQdTcRXM3CAAA+Y4WRQ==
+  </data>
+ </layer>
+ <layer id="3" name="2" width="8" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAOOHJC8EExBoajYqhyPpwIth8ng0IAEMP4p4BqvZHkD4mhmgHS648kDwLHkOSBZjGcBLLdgPQ5MQi+AMRXkdwAUuMBxGfFIPgmmvtAAJsYCAAASqYTHA==
+  </data>
+ </layer>
+ <layer id="4" name="3" width="8" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAOeHMyMBwSY2A4IoYp58jJoIBPbzMzKh/ZjJNA9ik0My8B+deQxM5A1YDELgPxRSC+hyQPEgOZcxWIbwPxfSxuxCYGAgAhuhJk
+  </data>
+ </layer>
+ <layer id="5" name="4" width="8" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYCANHBPDFGtiJt+MM1jMu4Em5sfJwHAJKnYHSF9HkweJgcy5h8UsQgAA/yEJ9A==
+  </data>
+ </layer>
+ <layer id="6" name="5" width="8" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBhY4MdJWM0VMQaGG2II/i0xTDUXsYgRAwBL3gQH
+  </data>
+ </layer>
+ <layer id="7" name="6" width="8" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh64IEYpth1LGLEAAB9tAHk
+  </data>
+ </layer>
+ <layer id="8" name="7" width="8" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBge4JYYefoANWoA8Q==
+  </data>
+ </layer>
+ <layer id="9" name="8" width="8" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBge4IEYefoANroA9w==
+  </data>
+ </layer>
+</map>
