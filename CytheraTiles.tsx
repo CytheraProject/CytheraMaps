@@ -873,6 +873,11 @@
    <property name="name" value="wall"/>
   </properties>
  </tile>
+ <tile id="174">
+  <properties>
+   <property name="name" value="wall"/>
+  </properties>
+ </tile>
  <tile id="176">
   <properties>
    <property name="name" value="wall"/>
@@ -1449,9 +1454,19 @@
    <property name="name" value="light shield"/>
   </properties>
  </tile>
+ <tile id="539">
+  <properties>
+   <property name="name" value="full shield"/>
+  </properties>
+ </tile>
  <tile id="540">
   <properties>
    <property name="name" value="leather helmet"/>
+  </properties>
+ </tile>
+ <tile id="541">
+  <properties>
+   <property name="name" value="helmet"/>
   </properties>
  </tile>
  <tile id="542">
@@ -1899,6 +1914,11 @@
    <property name="name" value="rolling pin"/>
   </properties>
  </tile>
+ <tile id="723">
+  <properties>
+   <property name="name" value="laddle"/>
+  </properties>
+ </tile>
  <tile id="725">
   <properties>
    <property name="name" value="bowl"/>
@@ -1917,6 +1937,11 @@
  <tile id="730">
   <properties>
    <property name="name" value="dough"/>
+  </properties>
+ </tile>
+ <tile id="731">
+  <properties>
+   <property name="name" value="spatula"/>
   </properties>
  </tile>
  <tile id="732">
@@ -1985,6 +2010,12 @@
  <tile id="751">
   <properties>
    <property name="name" value="miner's pick"/>
+  </properties>
+ </tile>
+ <tile id="752">
+  <properties>
+   <property name="blkmove" type="int" value="1"/>
+   <property name="name" value="urn"/>
   </properties>
  </tile>
  <tile id="753">
@@ -2629,6 +2660,16 @@
    <property name="blkmove" type="int" value="1"/>
    <property name="name" value="passthrough"/>
    <property name="passthrough" type="int" value="1"/>
+  </properties>
+ </tile>
+ <tile id="882">
+  <properties>
+   <property name="name" value="passthrough"/>
+  </properties>
+ </tile>
+ <tile id="883">
+  <properties>
+   <property name="name" value="passthrough"/>
   </properties>
  </tile>
  <tile id="884">
@@ -3571,6 +3612,18 @@
    <property name="passthrough" type="int" value="1"/>
   </properties>
  </tile>
+ <tile id="1136">
+  <properties>
+   <property name="blkmove" type="int" value="1"/>
+   <property name="blkv" type="int" value="1"/>
+   <property name="name" value="curtain"/>
+  </properties>
+ </tile>
+ <tile id="1137">
+  <properties>
+   <property name="name" value="curtain"/>
+  </properties>
+ </tile>
  <tile id="1140">
   <properties>
    <property name="blkmove" type="int" value="1"/>
@@ -3740,6 +3793,11 @@
   </properties>
  </tile>
  <tile id="1196">
+  <properties>
+   <property name="name" value="sign"/>
+  </properties>
+ </tile>
+ <tile id="1197">
   <properties>
    <property name="name" value="sign"/>
   </properties>
@@ -3955,6 +4013,27 @@
   </properties>
  </tile>
  <tile id="1251">
+  <properties>
+   <property name="blkmove" type="int" value="1"/>
+   <property name="name" value="statue"/>
+  </properties>
+ </tile>
+ <tile id="1252">
+  <properties>
+   <property name="name" value="statue"/>
+  </properties>
+ </tile>
+ <tile id="1253">
+  <properties>
+   <property name="name" value="statue"/>
+  </properties>
+ </tile>
+ <tile id="1254">
+  <properties>
+   <property name="name" value="statue"/>
+  </properties>
+ </tile>
+ <tile id="1255">
   <properties>
    <property name="blkmove" type="int" value="1"/>
    <property name="name" value="statue"/>
@@ -4331,6 +4410,12 @@
    <property name="name" value="archery target"/>
   </properties>
  </tile>
+ <tile id="2067">
+  <properties>
+   <property name="blkmove" type="int" value="1"/>
+   <property name="name" value="archery target"/>
+  </properties>
+ </tile>
  <tile id="2068">
   <properties>
    <property name="name" value="brazier"/>
@@ -4365,6 +4450,11 @@
  <tile id="2075">
   <properties>
    <property name="name" value="lamp post"/>
+  </properties>
+ </tile>
+ <tile id="2087">
+  <properties>
+   <property name="name" value="rope"/>
   </properties>
  </tile>
  <tile id="2088">
@@ -4417,6 +4507,11 @@
  <tile id="2097">
   <properties>
    <property name="name" value="broken sword"/>
+  </properties>
+ </tile>
+ <tile id="2100">
+  <properties>
+   <property name="name" value="broken shield"/>
   </properties>
  </tile>
  <tile id="2121">
@@ -4575,6 +4670,11 @@
    <property name="name" value="water pool"/>
   </properties>
  </tile>
+ <tile id="2155">
+  <properties>
+   <property name="name" value="water pool"/>
+  </properties>
+ </tile>
  <tile id="2156">
   <properties>
    <property name="name" value="water pool"/>
@@ -4604,6 +4704,11 @@
  <tile id="2179">
   <properties>
    <property name="name" value="crystal ball"/>
+  </properties>
+ </tile>
+ <tile id="2183">
+  <properties>
+   <property name="name" value="boards"/>
   </properties>
  </tile>
  <tile id="2188">
@@ -8053,6 +8158,18 @@
    <property name="name" value="candles"/>
   </properties>
  </tile>
+ <tile id="5916">
+  <properties>
+   <property name="name" value="rope"/>
+   <property name="ropefence" type="int" value="1"/>
+  </properties>
+ </tile>
+ <tile id="5917">
+  <properties>
+   <property name="name" value="rope"/>
+   <property name="ropefence" type="int" value="1"/>
+  </properties>
+ </tile>
  <tile id="5918">
   <properties>
    <property name="blkmove" type="int" value="1"/>
@@ -8075,6 +8192,38 @@
   <properties>
    <property name="blkmove" type="int" value="1"/>
    <property name="name" value="statue"/>
+  </properties>
+ </tile>
+ <tile id="5922">
+  <properties>
+   <property name="name" value="candleabra"/>
+  </properties>
+ </tile>
+ <tile id="5923">
+  <properties>
+   <property name="name" value="candleabra"/>
+  </properties>
+ </tile>
+ <tile id="5924">
+  <properties>
+   <property name="name" value="candleabra"/>
+  </properties>
+ </tile>
+ <tile id="5925">
+  <properties>
+   <property name="name" value="candleabra"/>
+  </properties>
+ </tile>
+ <tile id="5926">
+  <properties>
+   <property name="name" value="rope"/>
+   <property name="ropefence" type="int" value="1"/>
+  </properties>
+ </tile>
+ <tile id="5927">
+  <properties>
+   <property name="name" value="rope"/>
+   <property name="ropefence" type="int" value="1"/>
   </properties>
  </tile>
  <tile id="5928">
@@ -8120,6 +8269,30 @@
   </properties>
  </tile>
  <tile id="5935">
+  <properties>
+   <property name="blkmove" type="int" value="1"/>
+   <property name="name" value="statue"/>
+  </properties>
+ </tile>
+ <tile id="5936">
+  <properties>
+   <property name="blkmove" type="int" value="1"/>
+   <property name="name" value="statue"/>
+  </properties>
+ </tile>
+ <tile id="5937">
+  <properties>
+   <property name="blkmove" type="int" value="1"/>
+   <property name="name" value="statue"/>
+  </properties>
+ </tile>
+ <tile id="5938">
+  <properties>
+   <property name="blkmove" type="int" value="1"/>
+   <property name="name" value="statue"/>
+  </properties>
+ </tile>
+ <tile id="5939">
   <properties>
    <property name="blkmove" type="int" value="1"/>
    <property name="name" value="statue"/>
